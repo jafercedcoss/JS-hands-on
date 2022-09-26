@@ -14,3 +14,6 @@ alert(z);
 //  JS Variable Exercise 5
 var firstName = "John",lastName = "Doe",
  age=35;
+
+ //  JS Operator Exercise 1
+ alert(10*5);
