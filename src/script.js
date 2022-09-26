@@ -71,3 +71,22 @@ function myFunction() {
            = "Hello";
           }
 
+//  JS Object Exercise 1
+          const person = {
+            firstName: "John",
+            lastName: "Doe"
+        };
+          
+          alert(
+          person.firstName
+          );
+
+
+
+
+
+
+
+
+
+
