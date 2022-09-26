@@ -25,3 +25,7 @@ var firstName = "John",lastName = "Doe",
  x = 10;
  y = 5;
    x += y;
+//  JS Operator Exercise 5
+   x = 10;
+   y = 5;
+   x*=y;
