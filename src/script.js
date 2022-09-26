@@ -29,3 +29,20 @@ var firstName = "John",lastName = "Doe",
    x = 10;
    y = 5;
    x*=y;
+//  JS Data Types Exercise 1
+let length = 16;          // number
+
+let lastName = "Johnson"; // string
+
+const x = {
+  firstName: "John",
+  lastName: "Doe"
+};                        // object
+
+
+
+
+
+
+
+
