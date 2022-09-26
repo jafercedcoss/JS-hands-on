@@ -109,6 +109,9 @@ let txt = "Hello World!";
 let x = txt.length;
 alert(x);
 
+//  JS Strings Exercise 2
+let txt = "We are  \"Vikings\"";
+alert(txt);
 
 
 
