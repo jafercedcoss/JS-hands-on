@@ -139,3 +139,8 @@ txt = txt.replace
 
 let txt = "Hello World";
 txt = txt.toUpperCase();
+
+//  JS Strings Methods Exercise 5
+
+let txt = "Hello World";
+txt = txt.toLowerCase();
