@@ -121,6 +121,10 @@ let str2 = "World!";
 alert(str1+str2);
 
 
-//  JS Strings Methods Exercise 3
+//  JS Strings Methods Exercise 1
 let txt = "Hello World!";
 txt = txt.toUpperCase();
+
+//  JS Strings Methods Exercise 2
+let txt = "I can eat bananas all day";
+let x = txt.slice(10, 17);
