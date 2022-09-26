@@ -94,7 +94,8 @@ const person = {
 };
 alert(person.name + "is" + person.age);
 
-
+//  JS Events Exercise 1
+<button  onclick="alert('Hello')">Click me.</button>
 
 
 
