@@ -134,3 +134,8 @@ let x = txt.slice(10, 17);
 let txt = "Hello World";
 txt = txt.replace
 ("Hello", "Welcome");
+
+//  JS Strings Methods Exercise 4
+
+let txt = "Hello World";
+txt = txt.toUpperCase();
