@@ -46,7 +46,16 @@ function myFunction() {
   myFunction();
 
 
-
+//  JS Functions Exercise 2
+  function
+ 
+  myFunction()
+   
+  {
+  
+    alert("Hello World!");
+  {
+  
 
 
 
