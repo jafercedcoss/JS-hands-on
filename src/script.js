@@ -97,6 +97,9 @@ alert(person.name + "is" + person.age);
 //  JS Events Exercise 1
 <button  onclick="alert('Hello')">Click me.</button>
 
+//  JS Events Exercise 2
+
+<button  onclick="myFunction() ">Click me.</button>
 
 
 
