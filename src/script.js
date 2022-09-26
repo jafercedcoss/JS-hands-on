@@ -128,3 +128,9 @@ txt = txt.toUpperCase();
 //  JS Strings Methods Exercise 2
 let txt = "I can eat bananas all day";
 let x = txt.slice(10, 17);
+
+//  JS Strings Methods Exercise 3
+
+let txt = "Hello World";
+txt = txt.replace
+("Hello", "Welcome");
