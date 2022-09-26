@@ -6,8 +6,11 @@ var x = 50
 var x= 5;
 var y = 10;
 document.getElementById("demo").innerHTML = x+y;
-//  JS Variable Exercise 3
+//  JS Variable Exercise 4
 var x = 5;
 var y = 10;
 var z = x + y;
 alert(z);
+//  JS Variable Exercise 5
+var firstName = "John",lastName = "Doe",
+ age=35;
