@@ -17,3 +17,5 @@ var firstName = "John",lastName = "Doe",
 
  //  JS Operator Exercise 1
  alert(10*5);
+ //  JS Operator Exercise 2
+ alert(10/2);
