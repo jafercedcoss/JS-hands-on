@@ -104,6 +104,11 @@ alert(person.name + "is" + person.age);
 //  JS Events Exercise 3
 <div onmouseover ="this.style.backgroundColor='red'">myDIV.</div>
 
+//  JS Strings Exercise 1
+let txt = "Hello World!";
+let x = txt.length;
+alert(x);
+
 
 
 
