@@ -88,6 +88,12 @@ function myFunction() {
            country:"Norway"
            };
 
+//  JS Object Exercise 3
+const person = { 
+  name: "John", age:50
+};
+alert(person.name + "is" + person.age);
+
 
 
 
