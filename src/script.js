@@ -121,5 +121,6 @@ let str2 = "World!";
 alert(str1+str2);
 
 
-
-
+//  JS Strings Methods Exercise 3
+let txt = "Hello World!";
+txt = txt.toUpperCase();
