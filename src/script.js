@@ -21,3 +21,7 @@ var firstName = "John",lastName = "Doe",
  alert(10/2);
 //  JS Operator Exercise 3
  alert(15 %9);
+//  JS Operator Exercise 4
+ x = 10;
+ y = 5;
+   x += y;
