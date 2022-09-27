@@ -220,3 +220,10 @@ alert(x !=y);
 var age = n;
 var voteable = (age <18) ?"Too young" :"Old enough";
 alert(voteable);
+
+// JS  Condition exercise 1
+if 
+(x > y)
+{
+  alert("Hello World");
+}
