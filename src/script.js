@@ -278,3 +278,8 @@ for
  (i= 0; i< 10; i++) {
   console.log(i);
 }
+//  JS For Loops exercise 2
+const fruits = ["Apple", "Banana", "Orange"];
+for (x offruits) {
+  console.log(x);
+}
