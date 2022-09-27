@@ -184,3 +184,11 @@ month = d.getMonth();
 // JS  dates Exercise 4
 const d = new Date();
 d.setFullYear(2020);
+
+// JS  maths exercise 1
+let r = 
+Math.random();
+
+// JS  maths exercise 2
+let x = Math.max
+(10, 20);
