@@ -195,3 +195,8 @@ let x = Math.max
 // JS  maths exercise 3
 let x = Math.
 round(5.3);
+
+
+// JS  maths exercise 4
+let x = Math.
+sqrt(9);
