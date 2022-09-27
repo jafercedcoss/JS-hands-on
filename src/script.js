@@ -159,5 +159,7 @@ const cars = ["Volvo", "Jeep", "Mercedes"];
 alert(cars.length);
 // JS Array Method Exercise 1
 const fruits = ["Banana", "Orange", "Apple"];
-fruits.pop()
-;
+fruits.pop();
+// JS Array Method Exercise 2
+const fruits = ["Banana", "Orange", "Apple"];
+fruits.push("Kiwi");
