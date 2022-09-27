@@ -200,3 +200,10 @@ round(5.3);
 // JS  maths exercise 4
 let x = Math.
 sqrt(9);
+// JS  Camparison exercise 1
+
+x = 10;
+y = 5;
+alert(x >y);
+
+// JS  Camparison exercise 1
