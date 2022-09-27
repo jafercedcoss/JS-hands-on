@@ -206,4 +206,7 @@ x = 10;
 y = 5;
 alert(x >y);
 
-// JS  Camparison exercise 1
+// JS  Camparison exercise 2
+x = 10;
+y = 10;
+alert(x ==y);
