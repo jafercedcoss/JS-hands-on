@@ -210,3 +210,8 @@ alert(x >y);
 x = 10;
 y = 10;
 alert(x ==y);
+
+// JS  Camparison exercise 3
+x = 10;
+y = 5;
+alert(x !=y);
