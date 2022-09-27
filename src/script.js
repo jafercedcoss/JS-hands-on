@@ -174,3 +174,7 @@ fruits.sort();
 
 const d = new Date();
 alert(d);
+
+// JS  dates Exercise 1
+const d = new Date();
+year= d.getFullYear();
