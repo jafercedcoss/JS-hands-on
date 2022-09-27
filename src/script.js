@@ -154,3 +154,8 @@ let x = cars[1];
 const cars = ["Volvo","Jeep", "Mercedes"];
 cars[0]= "Ford";
 
+// JS Array Exercise 3
+const cars = ["Volvo", "Jeep", "Mercedes"];
+alert(
+cars.length
+);
