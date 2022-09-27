@@ -283,3 +283,10 @@ const fruits = ["Apple", "Banana", "Orange"];
 for (x offruits) {
   console.log(x);
 }
+//  JS While Loops exercise 2
+let i = 0;
+while
+ (i <10) {
+  console.log(i);
+  i++
+}
