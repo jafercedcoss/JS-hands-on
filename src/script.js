@@ -156,6 +156,8 @@ cars[0]= "Ford";
 
 // JS Array Exercise 3
 const cars = ["Volvo", "Jeep", "Mercedes"];
-alert(
-cars.length
-);
+alert(cars.length);
+// JS Array Method Exercise 1
+const fruits = ["Banana", "Orange", "Apple"];
+fruits.pop()
+;
