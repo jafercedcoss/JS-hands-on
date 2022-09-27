@@ -178,3 +178,6 @@ alert(d);
 // JS  dates Exercise 1
 const d = new Date();
 year= d.getFullYear();
+// JS  dates Exercise 2
+const d = new Date();
+month = d.getMonth();
