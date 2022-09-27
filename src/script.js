@@ -170,3 +170,7 @@ fruits.splice(1, 2);
 // JS Array Sort Exercise 1
 const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
 fruits.sort();
+// JS Array dates Exercise 1
+
+const d = new Date();
+alert(d);
