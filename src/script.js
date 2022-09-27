@@ -192,3 +192,6 @@ Math.random();
 // JS  maths exercise 2
 let x = Math.max
 (10, 20);
+// JS  maths exercise 3
+let x = Math.
+round(5.3);
